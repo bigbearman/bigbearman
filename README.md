@@ -1,20 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kien%20Duong&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Laravel%20%C2%B7%20AI&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kien%20Duong&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Frontend%20Engineer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20Web3&descAlignY=55&descAlign=50" />
 </p>
 
 <p align="center">
   <a href="https://github.com/bigbearman/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%F0%9F%9A%80;React+%C2%B7+Laravel+%C2%B7+Joomla+Expert;7%2B+years+shipping+production+apps;Building+with+AI+Agents+%F0%9F%A4%96;Available+for+Remote+Work+%F0%9F%8C%8D&font=Fira+Code&center=true&width=480&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Frontend+Engineer+%F0%9F%9A%80;React+%C2%B7+Next.js+%C2%B7+TypeScript;10%2B+years+shipping+production+apps;Building+Web3+products+at+Lab3;Available+for+Remote+Work+%F0%9F%8C%8D&font=Fira+Code&center=true&width=480&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/>
   </a>
 </p>
 
 <!-- Social icons -->
 <p align="center">
-  <a href="https://linkedin.com/in/kien-duong-51b87b198"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://linkedin.com/in/kien-duong-fullstack"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:kien.duong@healthimpact.ai"><img width="32px" alt="Email" title="Email" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="mailto:kienduong.hust@gmail.com"><img width="32px" alt="Email" title="Email" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/bigbearman"><img width="32px" alt="GitHub" title="GitHub" src="https://i.imgur.com/AixJgnm.png"/></a>
+</p>
+
+<p align="center">
+  <a href="https://kiendt.dev"><img alt="Portfolio" src="https://img.shields.io/badge/kiendt.dev-portfolio-7ee787?style=flat-square"/></a>
 </p>
 
 <br/>
@@ -29,13 +33,27 @@
 <details open>
   <summary><h2>🚀 About Me</h2></summary>
 
-  Full Stack Developer with **7+ years** shipping production-grade web applications.
+  Senior Frontend Engineer with **10+ years** shipping production-grade web applications — from CMS platforms to AI products to Web3 trading tools.
 
-  - 🔭 Building: AI chatbot platform for healthcare (React + Laravel + pgvector)
-  - 🤖 Experimenting: Autonomous AI agent teams for dev workflow automation
-  - 💼 Stack: React/Next.js · Laravel · Enterprise Joomla CMS · NestJS
-  - 🌍 Available for: **Remote contracts & full-time roles**
-  - ⚡️ Fun fact: I have an AI agent team that reviews my PRs before I do
+  - 🐋 Building: frontend across Lab3's Web3 product suite — [whales.market](https://whales.market) (pre-market OTC DEX), [mention.network](https://mention.network) (AI visibility for Shopify)
+  - 🏥 Also shipping: AI chatbot platform for healthcare ([demo.healthimpact.ai](https://demo.healthimpact.ai)) — React + Laravel + pgvector semantic search
+  - 🤖 Experimenting: autonomous AI agent teams for dev workflow automation
+  - 💼 Stack: React/Next.js · TypeScript · Laravel · NestJS
+  - 🌍 Available for: **remote contracts & full-time roles**
+  - ⚡️ Portfolio: [kiendt.dev](https://kiendt.dev)
+
+</details>
+
+<details open>
+  <summary><h2>🐋 Featured Work</h2></summary>
+
+  <table>
+    <tr>
+      <td width="33%" valign="top"><b><a href="https://whales.market">Whales Market</a></b><br/>Decentralized pre-market OTC exchange for trading tokens before they list.</td>
+      <td width="33%" valign="top"><b><a href="https://mention.network">Mention Network</a></b><br/>AI visibility (GEO) platform for Shopify resellers.</td>
+      <td width="33%" valign="top"><b><a href="https://demo.healthimpact.ai">HealthImpact.AI</a></b><br/>AI chatbot matching cancer patients to clinical trials.</td>
+    </tr>
+  </table>
 
 </details>
 
@@ -60,10 +78,9 @@
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white">
     <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white">
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-38B2AC.svg?logo=tailwind-css&logoColor=white">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-38B2AC.svg?logo=tailwind-css&logoColor=white">
     <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white">
     <img alt="Joomla" src="https://img.shields.io/badge/Joomla-5091CD.svg?logo=joomla&logoColor=white">
-    <img alt="WordPress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white">
   </p>
 
   <h3>🗄️ Databases & Cloud</h3>
@@ -74,7 +91,7 @@
     <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazonaws&logoColor=white">
     <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4.svg?logo=googlecloud&logoColor=white">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
-    <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white">
+    <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0.svg?logo=docker&logoColor=white">
   </p>
 
